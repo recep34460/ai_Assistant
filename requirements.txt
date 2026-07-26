@@ -1,0 +1,12 @@
+pyttsx3
+SpeechRecognition
+requests
+beautifulsoup4
+pyautogui
+wikipedia
+psutil
+wolframalpha
+fbchat
+opencv-python
+pywhatkit
+pyjokes
